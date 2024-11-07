@@ -1,0 +1,80 @@
+1 	Compressed Mercoxit   Compressed Mercoxit 	0.4
+0.4 	79,990.00
+72,040.00 	79,990.00
+72,040.00 	199,975.00
+180,100.00
+1 	Compressed Spodumain   Compressed Spodumain 	0.16
+0.16 	22,310.00
+15,300.00 	22,310.00
+15,300.00 	139,437.50
+95,625.00
+1 	Compressed Crokite   Compressed Crokite 	0.16
+0.16 	10,300.00
+7,815.00 	10,300.00
+7,815.00 	64,375.00
+48,843.75
+1 	Compressed Dark Ochre   Compressed Dark Ochre 	0.08
+0.08 	7,370.00
+7,129.00 	7,370.00
+7,129.00 	92,125.00
+89,112.50
+1 	Compressed Arkonor   Compressed Arkonor 	0.16
+0.16 	6,787.00
+5,775.00 	6,787.00
+5,775.00 	42,418.75
+36,093.75
+1 	Compressed Bistot   Compressed Bistot 	0.16
+0.16 	4,483.00
+3,877.00 	4,483.00
+3,877.00 	28,018.75
+24,231.25
+1 	Compressed Gneiss   Compressed Gneiss 	0.05
+0.05 	3,438.00
+3,175.00 	3,438.00
+3,175.00 	68,760.00
+63,500.00
+1 	Compressed Hedbergite   Compressed Hedbergite 	0.03
+0.03 	3,294.00
+1,405.00 	3,294.00
+1,405.00 	109,800.00
+46,833.33
+1 	Compressed Hemorphite   Compressed Hemorphite 	0.03
+0.03 	1,800.00
+1,072.00 	1,800.00
+1,072.00 	60,000.00
+35,733.33
+1 	Compressed Jaspet   Compressed Jaspet 	0.02
+0.02 	797.90
+557.90 	797.90
+557.90 	39,895.00
+27,895.00
+1 	Compressed Kernite   Compressed Kernite 	0.012
+0.012 	396.00
+347.90 	396.00
+347.90 	33,000.00
+28,991.67
+1 	Compressed Omber   Compressed Omber 	0.006
+0.006 	226.40
+203.10 	226.40
+203.10 	37,733.33
+33,850.00
+1 	Compressed Plagioclase   Compressed Plagioclase 	0.0035
+0.0035 	55.99
+54.12 	55.99
+54.12 	15,997.14
+15,462.86
+1 	Compressed Pyroxeres   Compressed Pyroxeres 	0.003
+0.003 	44.00
+41.61 	44.00
+41.61 	14,666.67
+13,870.00
+1 	Compressed Scordite   Compressed Scordite 	0.0015
+0.0015 	23.00
+20.50 	23.00
+20.50 	15,333.33
+13,666.67
+1 	Compressed Veldspar   Compressed Veldspar 	0.001
+0.001 	15.10
+14.02 	15.10
+14.02 	15,100.00
+14,020.00 
